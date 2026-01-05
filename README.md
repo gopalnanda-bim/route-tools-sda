@@ -84,6 +84,15 @@ the planner controls numbering **graphically and logically** through the route.
 This significantly speeds up execution planning
 and reduces numbering errors in real projects.
 
+## Installation
+
+1. Install pyRevit (https://docs.pyrevitlabs.io/)
+2. Clone this repository into:
+
+%APPDATA%\pyRevit\Extensions
+
+3. Restart Revit
+
 ## Roadmap (planned)
 
 - Improve robustness of route detection for complex layouts
