@@ -83,3 +83,10 @@ the planner controls numbering **graphically and logically** through the route.
 
 This significantly speeds up execution planning
 and reduces numbering errors in real projects.
+
+## Roadmap (planned)
+
+- Improve robustness of route detection for complex layouts
+- Optional settings storage for frequently used parameters
+- Additional QA and edge-case handling based on real project usage
+
