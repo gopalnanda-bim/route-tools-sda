@@ -1,0 +1,7 @@
+Route zeichnen & nummerieren
+
+• Geräte in Reihenfolge klicken (Esc = Fertig)
+• Zeichnet Detail-Linien zwischen den Geräten
+• Setzt Loop/Stromkreis-Feld + Nummer-Feld
+
+Hinweis: Funktioniert in 2D Ansichten (Plan / RCP).

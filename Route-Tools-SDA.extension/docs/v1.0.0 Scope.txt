@@ -1,0 +1,51 @@
+SDA Route Tools v1.0.0
+
+Route zeichnen & nummerieren
+
+User clicks devices in order (Esc to finish)
+
+Draws Detail Lines between consecutive devices
+
+Sets:
+
+Loop/Stromkreis field (same value for all clicked)
+
+Number field (sequence start..N)
+
+Limits max devices (cap)
+
+Linie neu nummerieren
+
+User selects existing route Detail Lines (TAB chain)
+
+Tool reconstructs path and matches nearby devices (SNAP)
+
+User chooses one field to renumber
+
+Optional:
+
+set loop/stromkreis field=value
+
+reverse direction
+
+choose custom start device
+
+Limits max devices (cap)
+
+❌ What v1 does NOT do (important)
+
+No 3D views / schedules / sheets
+
+No automatic parameter creation (fields must already exist & be writable)
+
+No model lines, only detail lines
+
+No “smart routing” around obstacles — it’s click order / line selection order
+
+No unit conversion for Double parameters (only String/Integer supported)
+
+Assumptions
+
+Families/devices have consistent writable fields
+
+Route lines are connected (no gaps) for reorder

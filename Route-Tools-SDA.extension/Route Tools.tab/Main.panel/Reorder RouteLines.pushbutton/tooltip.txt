@@ -1,0 +1,8 @@
+Linie neu nummerieren
+
+• Routelinien auswählen (TAB-Kette), dann Tool starten
+• Erkennt Geräte entlang der Linie (SNAP)
+• Neu nummerieren eines ausgewählten Feldes
+• Optional: Loop/Stromkreis für alle setzen
+
+Hinweis: Funktioniert in 2D Ansichten (Plan / RCP).
