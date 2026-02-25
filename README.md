@@ -12,7 +12,7 @@ This extension is designed for:
 - Fire alarm (BMA), emergency lighting (Sicherheitsbeleuchtung),
   and PA / SAA projects
 
-It is **not intended for architects or general Revit users**.
+
 
 ---
 
